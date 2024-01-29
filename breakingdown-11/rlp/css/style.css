@@ -272,7 +272,8 @@ img[src$='.svg'] {
 
 #contents_referee h2 {
     padding: 0 20px;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
 
 #contents_referee .referee-box > img {
